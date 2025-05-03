@@ -68,7 +68,7 @@ Sistema de autenticación con Django Authentication
 
 Autor
 
-Tu Nombre
+Erick Rosero
 
 Contacto: correo@ejemplo.com
 
